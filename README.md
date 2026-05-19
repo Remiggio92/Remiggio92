@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Remiggio92
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Spreadsheets, SQL, Tableau, Power BI, R & Python
-- 💞️ I’m working on my own projects portfolio:  https://sites.google.com/d/1lHfTdNbgsY0gpKOjvu3efsIz-YKMZ4eK/p/1gX0BanwGgy8FYQehbas53nqUIUTXqpBH/edit?pli=1
+- 💞️ I’m working on my own projects portfolio:  https://sites.google.com/view/remiggioportfolio/strona-g%C5%82%C3%B3wna
 - 📫 How to reach me: r3migiuszkowalczyk@gmail.com
 
 <!---
